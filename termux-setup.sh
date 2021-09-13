@@ -173,6 +173,7 @@ sleep 2
 echo "Termux setup complete!"
 echo "You Can Visit my GitHub For Useful Tools"
 echo "https://github.com/mohmadhabib"
+source /data/data/com.termux/files/usr/etc/bash.bashrc
 sleep 3
 echo "You have to Restart Termux Now By Hitting CTL + D and then Press Enter"
 echo "Or Simply Exit from Termux and then Open Notification Panel then Press Exit from Termux"
