@@ -146,9 +146,9 @@ echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib    
 # Replace bash.bashrc with my Modified One
 mv /data/data/com.termux/files/usr/etc/bash.bashrc /data/data/com.termux/files/usr/etc/bash.bashrc_BackUp
 git clone https://github.com/mohmadhabib/TermuxSetup
-mv termux-setup/bash.bashrc /data/data/com.termux/files/usr/etc
+mv TermuxSetup/bash.bashrc /data/data/com.termux/files/usr/etc
 cd ~
-rm -rf termux-setup
+rm -rf TermuxSetup
 clear
 echo -e '\033[31;40;1m ______                          ____    __'
 echo -e '\033[31;40;1m/_  __/__ ______ _  __ ____ __  / __/__ / /___ _____'
