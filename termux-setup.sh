@@ -42,6 +42,7 @@ echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib    
 declare -a Packages=("wget" "net-tools" "mlocate" "python3" "python2" "figlet" "man" "curl" "nodejs" "clang" "zip" "unzip" "tree" "git" "cmatrix" "htop" "grep" "vim" "neofetch")
 echo " Now We are Installing the Main Packages "
 echo 'echo "${myArray[*]}"'
+sleep 10
 # INSTALL SOME PROGRAMS
 for each_pac in "${Packages[@]}"; do
     pkg install $each_pac -y
