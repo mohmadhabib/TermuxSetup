@@ -16,7 +16,7 @@ If you run [termux-setup.sh](https://github.com/mohmadhabib/TermuxSetup/termux-s
 There several options to run this script on Termux.
 * you can use the file from here by Run this Code:
 ```
-pkg install curl && bash <(curl -s https://raw.githubusercontent.com/mohmadhabib/termux-setup/main/termux-setup.sh)
+pkg install curl && bash <(curl -s https://raw.githubusercontent.com/mohmadhabib/TermuxSetup/main/termux-setup.sh)
 ```
 * You can just copy the script's content and past it in a new file and then execute it.
 ```
