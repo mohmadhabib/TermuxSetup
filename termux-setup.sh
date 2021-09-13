@@ -4,7 +4,7 @@ echo -e '\033[31;40;1m ______                          ____    __'
 echo -e '\033[31;40;1m/_  __/__ ______ _  __ ____ __  / __/__ / /___ _____'
 echo -e '\033[31;40;1m / / / -_) __/  ` \/ // /\ \ / _\ \/ -_) __/ // / _ \'
 echo -e '\033[31;40;1m/_/  \__/_/ /_/_/_/\_,_//_\_\ /___/\__/\__/\_,_/ .__/'
-echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib      \033[31;40;1m/_/ \033[36;40;1m[v2.0]'
+echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib      \033[31;40;1m/_/\033[36;40;1m[v2.0]'
 echo -e '\033[31;40;1m .'
 sleep 0.3
 echo -e '\033[31;40;1m .'
@@ -19,7 +19,7 @@ echo -e '\033[31;40;1m ______                          ____    __'
 echo -e '\033[31;40;1m/_  __/__ ______ _  __ ____ __  / __/__ / /___ _____'
 echo -e '\033[31;40;1m / / / -_) __/  ` \/ // /\ \ / _\ \/ -_) __/ // / _ \'
 echo -e '\033[31;40;1m/_/  \__/_/ /_/_/_/\_,_//_\_\ /___/\__/\__/\_,_/ .__/'
-echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib      \033[31;40;1m/_/ \033[36;40;1m[v2.0]'
+echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib      \033[31;40;1m/_/\033[36;40;1m[v2.0]'
 # update, upgrade
 pkg update -y && pkg upgrade -y
 clear
@@ -27,7 +27,7 @@ echo -e '\033[31;40;1m ______                          ____    __'
 echo -e '\033[31;40;1m/_  __/__ ______ _  __ ____ __  / __/__ / /___ _____'
 echo -e '\033[31;40;1m / / / -_) __/  ` \/ // /\ \ / _\ \/ -_) __/ // / _ \'
 echo -e '\033[31;40;1m/_/  \__/_/ /_/_/_/\_,_//_\_\ /___/\__/\__/\_,_/ .__/'
-echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib      \033[31;40;1m/_/ \033[36;40;1m[v2.0]'
+echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib      \033[31;40;1m/_/\033[36;40;1m[v2.0]'
 # configure storage
 echo " Configuiring Termux to Use the Phone Storage "
 echo " Once the Dialog Appeared Please Select Allow "
@@ -37,7 +37,7 @@ echo -e '\033[31;40;1m ______                          ____    __'
 echo -e '\033[31;40;1m/_  __/__ ______ _  __ ____ __  / __/__ / /___ _____'
 echo -e '\033[31;40;1m / / / -_) __/  ` \/ // /\ \ / _\ \/ -_) __/ // / _ \'
 echo -e '\033[31;40;1m/_/  \__/_/ /_/_/_/\_,_//_\_\ /___/\__/\__/\_,_/ .__/'
-echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib      \033[31;40;1m/_/ \033[36;40;1m[v2.0]'
+echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib      \033[31;40;1m/_/\033[36;40;1m[v2.0]'
 # Please Make Sure to add the Packages Needed in the Same Array
 declare -a Packages=("wget" "net-tools" "mlocate" "python3" "python2" "figlet" "man" "curl" "nodejs" "clang" "zip" "unzip" "tree" "git" "cmatrix" "htop" "grep" "vim" "neofetch")
 echo " Now We are Installing the Main Packages "
@@ -51,7 +51,7 @@ echo -e '\033[31;40;1m ______                          ____    __'
 echo -e '\033[31;40;1m/_  __/__ ______ _  __ ____ __  / __/__ / /___ _____'
 echo -e '\033[31;40;1m / / / -_) __/  ` \/ // /\ \ / _\ \/ -_) __/ // / _ \'
 echo -e '\033[31;40;1m/_/  \__/_/ /_/_/_/\_,_//_\_\ /___/\__/\__/\_,_/ .__/'
-echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib      \033[31;40;1m/_/ \033[36;40;1m[v2.0]'
+echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib      \033[31;40;1m/_/\033[36;40;1m[v2.0]'
 # if your device is rooted, you can install package 'tsu' to be able to use 'sudo' command, for this uncomment next command:
 echo "Gain a root shell on Termux while being able to run Termux commands as root.\nOr run one off commands with well known sudo from normal linux distros."
 echo -n " Is Your Device Rooted ? [y/n] "
@@ -68,7 +68,7 @@ echo -e '\033[31;40;1m ______                          ____    __'
 echo -e '\033[31;40;1m/_  __/__ ______ _  __ ____ __  / __/__ / /___ _____'
 echo -e '\033[31;40;1m / / / -_) __/  ` \/ // /\ \ / _\ \/ -_) __/ // / _ \'
 echo -e '\033[31;40;1m/_/  \__/_/ /_/_/_/\_,_//_\_\ /___/\__/\__/\_,_/ .__/'
-echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib      \033[31;40;1m/_/ \033[36;40;1m[v2.0]'
+echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib      \033[31;40;1m/_/\033[36;40;1m[v2.0]'
 echo "Configuring Some Programs"
 # CONFIGURE SOME PROGRAMS
 # confifure vim
@@ -108,7 +108,7 @@ echo -e '\033[31;40;1m ______                          ____    __'
 echo -e '\033[31;40;1m/_  __/__ ______ _  __ ____ __  / __/__ / /___ _____'
 echo -e '\033[31;40;1m / / / -_) __/  ` \/ // /\ \ / _\ \/ -_) __/ // / _ \'
 echo -e '\033[31;40;1m/_/  \__/_/ /_/_/_/\_,_//_\_\ /___/\__/\__/\_,_/ .__/'
-echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib      \033[31;40;1m/_/ \033[36;40;1m[v2.0]'
+echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib      \033[31;40;1m/_/\033[36;40;1m[v2.0]'
 echo " Upgrading PIP (Preferred Installer Program) or Easier to say (Python Package Manager) and Installing New and Most needed Onse"
 # upgrade pip and install some modules
 pip install --upgrade pip
@@ -121,7 +121,7 @@ echo -e '\033[31;40;1m ______                          ____    __'
 echo -e '\033[31;40;1m/_  __/__ ______ _  __ ____ __  / __/__ / /___ _____'
 echo -e '\033[31;40;1m / / / -_) __/  ` \/ // /\ \ / _\ \/ -_) __/ // / _ \'
 echo -e '\033[31;40;1m/_/  \__/_/ /_/_/_/\_,_//_\_\ /___/\__/\__/\_,_/ .__/'
-echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib      \033[31;40;1m/_/ \033[36;40;1m[v2.0]'
+echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib      \033[31;40;1m/_/\033[36;40;1m[v2.0]'
 # MORE
 # remove Termux welcome text
 echo "Remove the Welcome Message from the Upper side of Termux Screen, Which is Annoying for most Of Us"
@@ -140,7 +140,7 @@ echo -e '\033[31;40;1m ______                          ____    __'
 echo -e '\033[31;40;1m/_  __/__ ______ _  __ ____ __  / __/__ / /___ _____'
 echo -e '\033[31;40;1m / / / -_) __/  ` \/ // /\ \ / _\ \/ -_) __/ // / _ \'
 echo -e '\033[31;40;1m/_/  \__/_/ /_/_/_/\_,_//_\_\ /___/\__/\__/\_,_/ .__/'
-echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib      \033[31;40;1m/_/ \033[36;40;1m[v2.0]'
+echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib      \033[31;40;1m/_/\033[36;40;1m[v2.0]'
 # Replace bash.bashrc with my Modified One
 mv /data/data/com.termux/files/usr/etc/bash.bashrc /data/data/com.termux/files/usr/etc/bash.bashrc_BackUp
 git clone https://github.com/mohmadhabib/termux-setup
@@ -152,7 +152,7 @@ echo -e '\033[31;40;1m ______                          ____    __'
 echo -e '\033[31;40;1m/_  __/__ ______ _  __ ____ __  / __/__ / /___ _____'
 echo -e '\033[31;40;1m / / / -_) __/  ` \/ // /\ \ / _\ \/ -_) __/ // / _ \'
 echo -e '\033[31;40;1m/_/  \__/_/ /_/_/_/\_,_//_\_\ /___/\__/\__/\_,_/ .__/'
-echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib      \033[31;40;1m/_/ \033[36;40;1m[v2.0]'
+echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib      \033[31;40;1m/_/\033[36;40;1m[v2.0]'
 # install onex
 echo -n " Do you Need To Install Onex Tools Set ? [y/n] "
 read onextoolset
