@@ -5,7 +5,7 @@ if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
 fi
 PS1='\$ '
 username="MKNH"
-echo "figlet $username"
+figlet $username
 echo "Hi Again $username"
 alias downloads="cd /data/data/com.termux/files/home/storage/downloads"
 #/data/data/com.termux/files/usr/etc/bash.bashrc
