@@ -41,7 +41,6 @@ echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib    
 # Please Make Sure to add the Packages Needed in the Same Array
 declare -a Packages=("wget" "net-tools" "mlocate" "python3" "python2" "figlet" "man" "curl" "nodejs" "clang" "zip" "unzip" "tree" "git" "cmatrix" "htop" "grep" "vim" "neofetch")
 echo " Now We are Installing the Main Packages "
-echo 'echo "${Packages[*]}"'
 sleep 10
 # INSTALL SOME PROGRAMS
 for each_pac in "${Packages[@]}"; do
