@@ -60,6 +60,7 @@ read rooted
 
 if [ "$rooted" = "y" ]; then
     echo "Package tsu Will Be Installed"
+    sleep 5
     pkg install tsu -y
 else
     echo "The Package tsu Skipped Because your Device not Rooted"
@@ -131,11 +132,12 @@ read welcomescreen
 
 if [ "$welcomescreen" = "y" ]; then
     echo "File motd will be Removed"
+    sleep 5
     rm /data/data/com.termux/files/usr/etc/motd
 else
     echo "The Welcome Message will be kept as your Choice"
 fi
-sleep 2
+sleep 5
 clear
 echo -e '\033[31;40;1m ______                          ____    __'
 echo -e '\033[31;40;1m/_  __/__ ______ _  __ ____ __  / __/__ / /___ _____'
@@ -144,7 +146,7 @@ echo -e '\033[31;40;1m/_/  \__/_/ /_/_/_/\_,_//_\_\ /___/\__/\__/\_,_/ .__/'
 echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib      \033[31;40;1m/_/\033[36;40;1m[v2.0]'
 # Replace bash.bashrc with my Modified One
 mv /data/data/com.termux/files/usr/etc/bash.bashrc /data/data/com.termux/files/usr/etc/bash.bashrc_BackUp
-git clone https://github.com/mohmadhabib/termux-setup
+git clone https://github.com/mohmadhabib/TermuxSetup
 mv termux-setup/bash.bashrc /data/data/com.termux/files/usr/etc
 cd ~
 rm -rf termux-setup
@@ -160,6 +162,7 @@ read onextoolset
 
 if [ "$onextoolset" = "y" ]; then
     echo "Onex Tools Set will Be Installed"
+    sleep 5
     git clone https://github.com/rajkumardusad/onex.git
     chmod +x onex/install
     ./onex/install
