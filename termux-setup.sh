@@ -168,6 +168,25 @@ if [ "$onextoolset" = "y" ]; then
 else
     echo "You Can Install Onex any time by run this Command:\ngit clone https://github.com/rajkumardusad/onex.git && chmod +x onex/install && ./onex/install"
 fi
+clear
+echo -e '\033[31;40;1m ______                          ____    __'
+echo -e '\033[31;40;1m/_  __/__ ______ _  __ ____ __  / __/__ / /___ _____'
+echo -e '\033[31;40;1m / / / -_) __/  ` \/ // /\ \ / _\ \/ -_) __/ // / _ \'
+echo -e '\033[31;40;1m/_/  \__/_/ /_/_/_/\_,_//_\_\ /___/\__/\__/\_,_/ .__/'
+echo -e '\033[31;40;1m              \033[32;40;1mBY MKNH GitHub @MohmadHabib      \033[31;40;1m/_/\033[36;40;1m[v2.0]'
+# If you need To Style your Termux and Use Oh My ZSH:
+echo "To Style your Termux, I Would like to Install zsh & Oh My zsh On Termux."
+echo -n " Do you Want to Install OZSH ? [y/n] "
+read ozsh
+
+if [ "$ozsh" = "y" ]; then
+    echo "zsh & Oh my zsh Will Be Installed"
+    sleep 5
+    sh -c "$(curl -fsSL https://github.com/Cabbagec/termux-ohmyzsh/raw/master/install.sh)"
+else
+    echo "The zsh & oh my zsh Skipped as your Request"
+fi
+clear
 
 sleep 2
 echo "Termux setup complete!"
